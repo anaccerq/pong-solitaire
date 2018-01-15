@@ -41,6 +41,6 @@ void draw() {
     textFont(fnt);
     textSize(32);
 
-    text("Game Over! \nScore = " + score, 160, 200);
+    text("Game Over!\nScore = " + score, 140, 200);
   }
 }
